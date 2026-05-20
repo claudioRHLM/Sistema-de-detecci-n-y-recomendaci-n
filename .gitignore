@@ -1,0 +1,12 @@
+venv/
+.env/
+__pycache__/
+*.pyc
+.vscode/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+*.zip
