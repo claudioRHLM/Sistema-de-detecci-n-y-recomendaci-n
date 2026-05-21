@@ -56,9 +56,9 @@ Un sistema de inteligencia emocional analizó el mensaje y concluyó: {intencion
 
 ---
 
-Basado en el análisis de intención, genera UNA respuesta de mitigación.
+Genera UNA respuesta de mitigación y prevencion ante el riesgo.
 
-Respuesta: (Basada en los ejemplos)
+Respuesta: (Con formato de ejemplos)
 
 """.strip()
 )

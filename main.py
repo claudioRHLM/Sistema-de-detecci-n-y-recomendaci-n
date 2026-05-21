@@ -7,8 +7,10 @@ import time
 def formatear_alertas(alertas):
     return "\n".join([f"- {tipo}: {palabra}" for tipo, palabra in alertas])
 
-
+print("Cargando palabras de riesgo desde MongoDB Atlas...")
 palabras_riesgo = cargar_palabras_riesgo()
+print(f"Cargadas {sum(len(p) for p in palabras_riesgo.values())} palabras en {len(palabras_riesgo)} categorías")
+
 ultimo_texto = ""
 
 while True:
