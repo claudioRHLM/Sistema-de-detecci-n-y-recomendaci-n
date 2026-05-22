@@ -1,0 +1,11 @@
+detoxify==0.5.2
+easyocr==1.7.2
+langchain_core==1.4.0
+langchain_huggingface==1.2.2
+mss==10.2.0
+numpy==2.4.6
+opencv_python==4.13.0.92
+opencv_python_headless==4.11.0.86
+pymongo==4.17.0
+torch==2.6.0+cu124
+transformers==5.5.4
