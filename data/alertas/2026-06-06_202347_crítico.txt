@@ -1,0 +1,27 @@
+2026-06-06T20:23:47.371927 | CRÍTICO | Contenido con categorías de riesgo: generico, apariencia_fisica, intelectual
+--------------------------------------------------------------------------------
+Texto capturado: TOnta fea re fea ctm culia Archivo Editar Ver H1 v : B I 5 8 ~ TOnta fea re fea ctm culia Activar Windows Configuración para activar Windows. 14 C ESP 20*21 Buscar Ci c)) Mayorm. soleado 06-06-2026
+
+Intención detectada: La intención de este mensaje es negativa porque tiene un tono agresivo o negativo.
+================================================================================
+MITIGACION_LLM:
+Nivel: MEDIO
+Motivo: contenido repetido de humillación social sin amenaza directa, respaldado por toxicidad moderada.
+Recomendación: monitorear interacción y reforzar apoyo emocional. En este caso, la respuesta sería:
+
+---
+
+Respuesta:
+Nivel: MEDIO
+Motivo: contenido repetido de humillación social sin amenaza directa, respaldado por toxicidad moderada.
+Recomendación: monitorear interacción y reforzar apoyo emocional. 
+
+---
+
+Esta recomendación se basa en que el texto contiene repetición de insultos negativos pero no presenta amenazas directas o acciones específicas de daño. Es importante monitorear la interacción para identificar cualquier cambio en el comportamiento del menor y reforzar el apoyo emocional para ayudar a manejar estos sentimientos negativos. 
+
+Si observas algún cambio significativo en el comportamiento del niño, como cambios en su estado de ánimo, conducta o relaciones sociales, es recomendable hablar con el tutor y considerar la posibilidad de una evaluación adicional. 
+
+---
+
+Este formato proporciona una clasificación adecuada del nivel de riesgo

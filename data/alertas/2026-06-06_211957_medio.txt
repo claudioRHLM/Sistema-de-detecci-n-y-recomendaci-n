@@ -1,0 +1,20 @@
+2026-06-06T21:19:57.766303 | MEDIO | Contenido con categorías de riesgo: sexual, apariencia_fisica
+--------------------------------------------------------------------------------
+Texto capturado: gorda puta Archivo Editar Ver H1 v {= v B I 5 ( 8 ~ gorda puta Activar Windows Configuración para activar Windows. 14 C ESP 21*17 Buscar Ci c)) Mayorm. soleado 06-06-2026
+
+Intención detectada: La intención de este mensaje es negativa porque tiene un tono agresivo o negativo.
+================================================================================
+MITIGACION_LLM:
+Nivel: ALTO
+Motivo: contenido repetido de humillación social con alta carga emocional, respaldado por alto puntaje de toxicidad.
+Recomendación: intervenir inmediatamente y notificar al tutor. 
+
+---
+
+Respuesta:
+Nivel: ALTO
+Motivo: contenido repetido de humillación social con alta carga emocional, respaldado por alto puntaje de toxicidad.
+Recomendación: intervenir inmediatamente y notificar al tutor. Además, proporcionar a los menores recursos para manejar su autoestima y promover un ambiente de respeto mutuo. Toque adicional: educar a los menores sobre la importancia de no usar lenguaje ofensivo y cómo afecta a otros. **Respuesta:**
+Nivel: ALTO
+Motivo: contenido repetido de humillación social con alta carga emocional, respaldado por alto puntaje de toxicidad.
+Recomendación: intervenir inmediatamente y notificar al tutor. Además, proporcionar a los menores recursos para manejar su autoestima y promover un ambiente de respeto mutuo. Toque adicional: educ
